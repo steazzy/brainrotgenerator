@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "brainrotgenerator"
+version = "0.2.0"
+description = "A Python script for generating brain rot videos."
+authors = ["Your Name <you@example.com>"]
+license = "GNU Affero General Public License v3.0"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "3.13"
+asyncio = "^3.4.3"
+
+[tool.poetry.group.dev.dependencies]
+python-dotenv = "^1.0.1"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
