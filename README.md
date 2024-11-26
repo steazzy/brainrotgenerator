@@ -1,6 +1,6 @@
-# Video Combiner
+# Braub==inrot generator
 
-A Python script to generate brain rot videos.
+A Python script that generates brainrot.
 
 ## Installation
 
